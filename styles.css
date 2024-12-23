@@ -10962,7 +10962,7 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: #000;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
