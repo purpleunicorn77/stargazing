@@ -179,14 +179,14 @@ margin-top: 30px;
 }
 
 .custom-design {
-  width: 700px;
+  width: 400px;
   height: auto; 
 }
 
 .custom-outcome {
   display: block;
   margin: 0 auto; 
-  max-width: 500px;
+  max-width: 400px;
   height: auto; / 
 }
 
